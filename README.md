@@ -65,13 +65,13 @@ Whether it's a landing page, dashboard, or interactive web application, every pr
 
 ## 📸 Project Screenshots
 
-> Screenshots will be added for each project.
+> Screenshots 
 
 ---
 
 ## 🌍 Live Demo
 
-Each project includes its own live demo using **GitHub Pages**.
+live demo using **GitHub Pages**.
 
 ---
 
