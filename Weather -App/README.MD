@@ -19,10 +19,6 @@ A simple Weather Application built using HTML, CSS, and JavaScript.
 - JavaScript
 - OpenWeatherMap API
 
-## Screenshot
-<img src="Weather -App/Screenshot (112).png" width="700">
-
-
 ## How to Run
 
 1. Download the project.
