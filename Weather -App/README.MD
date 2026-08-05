@@ -21,7 +21,7 @@ A simple Weather Application built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-<img src="Screenshot(112).png" width="700">
+Screenshot(112).png
 
 ## How to Run
 
