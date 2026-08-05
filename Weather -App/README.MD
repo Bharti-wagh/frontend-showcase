@@ -20,7 +20,8 @@ A simple Weather Application built using HTML, CSS, and JavaScript.
 - OpenWeatherMap API
 
 ## Screenshot
-Weather -App/Screenshot (112).png
+<img src="Weather -App/Screenshot (112).png" width="700">
+
 
 ## How to Run
 
